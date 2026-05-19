@@ -1,4 +1,4 @@
-# cybersecuritylab-setup
+# Cybersecurity Lab
 Kali Linux VM setup, Android debugging, firmware analysis and root study
 # Cybersecurity Lab - Kali Linux
 
